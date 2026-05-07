@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/encapsulation-basic.iml" filepath="$PROJECT_DIR$/encapsulation-basic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/encapsulation-basics.iml" filepath="$PROJECT_DIR$/.idea/encapsulation-basics.iml" />
     </modules>
   </component>
 </project>
